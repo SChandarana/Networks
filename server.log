@@ -1,0 +1,182 @@
+
+2018-12-08 16:25:26.777470: Server has started
+2018-12-08 16:25:26.781468: Waiting for connection
+2018-12-08 16:25:31.099970: connection received from ('127.0.0.1', 52495)
+2018-12-08 16:25:41.619075: Artist request received with artist Barry Manilow
+2018-12-08 16:25:41.625070: Response sent to client
+2018-12-08 16:25:41.629080: Waiting for connection
+2018-12-08 16:25:55.471131: client wishes to quit
+2018-12-08 16:25:55.475125: Client connection duration: 24.37116050720215
+2018-12-08 16:25:55.480124: Waiting for connection
+2018-12-08 16:28:45.165964: Server has started
+2018-12-08 16:28:45.170958: Waiting for connection
+2018-12-08 16:28:58.707635: connection received from ('127.0.0.1', 52509)
+2018-12-08 16:28:58.711658: Waiting for input
+2018-12-08 16:29:06.537144: Artist request received with artist Barry Manilow
+2018-12-08 16:29:06.542145: Response sent to client
+2018-12-08 16:29:06.546139: Waiting for input
+2018-12-08 16:29:13.409204: Artist request received with artist not an artist
+2018-12-08 16:29:13.414204: Client requested artist not in database
+2018-12-08 16:29:13.419199: Response sent to client
+2018-12-08 16:29:13.422196: Waiting for input
+2018-12-08 16:29:22.823803: client wishes to quit
+2018-12-08 16:29:22.828797: Client connection duration: 24.116167783737183
+2018-12-08 16:29:22.832795: Waiting for connection
+2018-12-08 16:29:30.433439: connection received from ('127.0.0.1', 52514)
+2018-12-08 16:29:30.440432: Waiting for input
+2018-12-08 16:29:35.801354: Artist request received with artist Lobo
+2018-12-08 16:29:35.805355: Response sent to client
+2018-12-08 16:29:35.811351: Waiting for input
+2018-12-08 16:29:45.522797: Artist request received with artist nothing of importance
+2018-12-08 16:29:45.530773: Client requested artist not in database
+2018-12-08 16:29:45.534773: Response sent to client
+2018-12-08 16:29:45.537768: Waiting for input
+2018-12-08 16:29:48.608011: client wishes to quit
+2018-12-08 16:29:48.613006: Client connection duration: 18.174572229385376
+2018-12-08 16:29:48.619004: Waiting for connection
+2018-12-08 16:32:03.810249: Server has started
+2018-12-08 16:32:03.811249: Waiting for connection
+2018-12-08 16:32:09.407782: connection received from ('127.0.0.1', 52530)
+2018-12-08 16:32:09.408784: Waiting for input
+2018-12-08 16:32:18.880350: Artist request received with artist Barry Manilow
+2018-12-08 16:32:18.880350: Response sent to client
+2018-12-08 16:32:18.880350: Waiting for input
+2018-12-08 16:32:24.443160: client wishes to quit
+2018-12-08 16:32:24.443160: Client connection duration: 15.0343759059906
+2018-12-08 16:32:24.443160: Waiting for connection
+2018-12-08 16:47:22.964522: Server has started
+2018-12-08 16:47:22.964522: Waiting for connection
+2018-12-08 16:47:40.565285: connection received from ('127.0.0.1', 52615)
+2018-12-08 16:47:40.565285: Waiting for input
+2018-12-08 16:47:43.487608: Artist request received with artist hello
+2018-12-08 16:47:43.487608: Client requested artist not in database
+2018-12-08 16:47:43.487608: Response sent to client
+2018-12-08 16:47:43.487608: Waiting for input
+2018-12-08 16:47:50.420633: Artist request received with artist yeet
+2018-12-08 16:47:50.420633: Client requested artist not in database
+2018-12-08 16:47:50.420633: Response sent to client
+2018-12-08 16:47:50.420633: Waiting for input
+2018-12-08 16:47:53.365940: client wishes to quit
+2018-12-08 16:47:53.365940: Client connection duration: 12.800655364990234
+2018-12-08 16:47:53.365940: Waiting for connection
+2018-12-09 12:44:55.098949: Server has started
+2018-12-09 12:44:55.098949: Waiting for connection
+2018-12-09 12:45:22.282372: connection received from ('127.0.0.1', 56009)
+2018-12-09 12:45:22.282372: Waiting for input
+2018-12-09 12:45:30.428679: Artist request received with artist person
+2018-12-09 12:45:30.428679: Client requested artist not in database
+2018-12-09 12:45:30.429678: Response sent to client
+2018-12-09 12:45:30.429678: Waiting for input
+2018-12-09 12:45:42.498752: Artist request received with artist Barry Manilow
+2018-12-09 12:45:42.498752: Response sent to client
+2018-12-09 12:45:42.499751: Waiting for input
+2018-12-09 12:45:50.710045: client wishes to quit
+2018-12-09 12:45:50.710045: Client connection duration: 28.427673816680908
+2018-12-09 12:45:50.711043: Waiting for connection
+2018-12-09 12:46:58.024426: Server has started
+2018-12-09 12:46:58.024426: Waiting for connection
+2018-12-09 12:47:50.816139: connection received from ('127.0.0.1', 56038)
+2018-12-09 12:47:50.816139: Waiting for input
+2018-12-09 12:47:55.801277: Artist request received with artist no
+2018-12-09 12:47:55.801277: Client requested artist not in database
+2018-12-09 12:47:55.801277: Response sent to client
+2018-12-09 12:47:55.801277: Waiting for input
+2018-12-09 12:48:00.861378: client wishes to quit
+2018-12-09 12:48:00.861378: Client connection duration: 10.045239210128784
+2018-12-09 12:48:00.861378: Waiting for connection
+2018-12-09 13:54:47.785045: Server has started
+2018-12-09 13:54:47.786042: Waiting for connection
+2018-12-09 13:54:58.789729: connection received from ('127.0.0.1', 56518)
+2018-12-09 13:54:58.790730: Waiting for input
+2018-12-09 13:55:13.985011: Artist request received with artist not an artist
+2018-12-09 13:55:13.986010: Client requested artist not in database
+2018-12-09 13:55:13.986010: Response sent to client
+2018-12-09 13:55:13.986010: Waiting for input
+2018-12-09 13:55:37.870308: Artist request received with artist Barry Manilow
+2018-12-09 13:55:37.871308: Response sent to client
+2018-12-09 13:55:37.871308: Waiting for input
+2018-12-09 13:55:54.703651: client wishes to quit
+2018-12-09 13:55:54.703651: Client connection duration: 55.91392135620117
+2018-12-09 13:55:54.703651: Waiting for connection
+2018-12-09 13:56:06.632816: connection received from ('127.0.0.1', 56522)
+2018-12-09 13:56:06.633809: Waiting for input
+2018-12-09 13:56:11.169207: client wishes to quit
+2018-12-09 13:56:11.170208: Client connection duration: 4.536391258239746
+2018-12-09 13:56:11.170208: Waiting for connection
+2018-12-15 23:57:53.967124: Server has started
+2018-12-15 23:57:53.968122: Waiting for connection
+2018-12-15 23:58:18.284776: connection received from ('127.0.0.1', 49623)
+2018-12-15 23:58:18.285774: Waiting for input
+2018-12-15 23:58:31.429568: Artist request received with artist randomer
+2018-12-15 23:58:31.429568: Client requested artist not in database
+2018-12-15 23:58:31.430083: Response sent to client
+2018-12-15 23:58:31.430083: Waiting for input
+2018-12-15 23:58:50.298253: Artist request received with artist Barry Manilow
+2018-12-15 23:58:50.298752: Response sent to client
+2018-12-15 23:58:50.298752: Waiting for input
+2018-12-15 23:59:02.399074: client wishes to quit
+2018-12-15 23:59:02.399574: Client connection duration: 44.11429786682129
+2018-12-15 23:59:02.399574: Waiting for connection
+2018-12-15 23:59:10.388939: connection received from ('127.0.0.1', 49627)
+2018-12-15 23:59:10.389919: Waiting for input
+2018-12-15 23:59:15.190261: client wishes to quit
+2018-12-15 23:59:15.193259: Client connection duration: 4.801341772079468
+2018-12-15 23:59:15.196249: Waiting for connection
+2018-12-16 16:31:17.327701: Server has started
+2018-12-16 16:31:17.329199: Waiting for connection
+2018-12-16 16:31:27.649303: connection received from ('127.0.0.1', 51451)
+2018-12-16 16:31:27.650304: Waiting for input
+2018-12-16 16:31:41.998337: Artist request received with artist hello
+2018-12-16 16:31:41.998820: Client requested artist not in database
+2018-12-16 16:31:41.998820: Response sent to client
+2018-12-16 16:31:41.998820: Waiting for input
+2018-12-16 16:31:48.045725: client wishes to quit
+2018-12-16 16:31:48.046224: Client connection duration: 20.396422624588013
+2018-12-16 16:31:48.046224: Waiting for connection
+2018-12-16 16:31:54.281654: connection received from ('127.0.0.1', 51452)
+2018-12-16 16:31:54.282137: Waiting for input
+2018-12-16 16:31:56.098240: client wishes to quit
+2018-12-16 16:31:56.098723: Client connection duration: 1.8165855407714844
+2018-12-16 16:31:56.098723: Waiting for connection
+2019-01-12 19:35:14.842725: Server has started
+2019-01-12 19:35:14.843725: Waiting for connection
+2019-01-12 19:35:26.453087: connection received from ('127.0.0.1', 51773)
+2019-01-12 19:35:26.453087: Waiting for input
+2019-01-12 19:35:44.721651: Artist request received with artist not an artist
+2019-01-12 19:35:44.721651: Client requested artist not in database
+2019-01-12 19:35:44.721651: Response sent to client
+2019-01-12 19:35:44.721651: Waiting for input
+2019-01-12 19:36:14.772480: Artist request received with artist Barry Manilow
+2019-01-12 19:36:14.772480: Response sent to client
+2019-01-12 19:36:14.772480: Waiting for input
+2019-01-12 19:36:51.896284: client wishes to quit
+2019-01-12 19:36:51.896284: Client connection duration: 85.44319725036621
+2019-01-12 19:36:51.896284: Waiting for connection
+2019-01-12 19:37:06.032192: connection received from ('127.0.0.1', 51775)
+2019-01-12 19:37:06.034198: Waiting for input
+2019-01-12 19:37:10.858437: client wishes to quit
+2019-01-12 19:37:10.858437: Client connection duration: 4.825244903564453
+2019-01-12 19:37:10.858437: Waiting for connection
+2019-01-24 12:46:30.265365: Server has started
+2019-01-24 12:46:30.265365: Waiting for connection
+2019-01-24 12:46:34.393998: connection received from ('127.0.0.1', 50806)
+2019-01-24 12:46:34.394996: Waiting for input
+2019-01-24 12:46:39.739934: Artist request received with artist John Denver
+2019-01-24 12:46:39.739934: Response sent to client
+2019-01-24 12:46:39.739934: Waiting for input
+2019-01-24 12:47:00.258173: client wishes to quit
+2019-01-24 12:47:00.258173: Client connection duration: 25.863177061080933
+2019-01-24 12:47:00.258173: Waiting for connection
+2019-01-24 12:52:29.494846: Server has started
+2019-01-24 12:52:29.494846: Waiting for connection
+2019-01-24 12:52:33.310660: connection received from ('127.0.0.1', 50900)
+2019-01-24 12:52:33.310660: Waiting for input
+2019-01-24 12:52:38.869473: Artist request received with artist John Denver
+2019-01-24 12:52:38.869473: Response sent to client
+2019-01-24 12:52:38.870474: Waiting for input
+2019-01-24 12:52:51.387298: Artist request received with artist Barry Manilow
+2019-01-24 12:52:51.388299: Response sent to client
+2019-01-24 12:52:51.388299: Waiting for input
+2019-01-24 12:52:56.781206: client wishes to quit
+2019-01-24 12:52:56.781206: Client connection duration: 23.470546007156372
+2019-01-24 12:52:56.781206: Waiting for connection

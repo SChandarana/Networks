@@ -1,0 +1,176 @@
+2018-12-08 16:25:25.252327: Failed to establish server connection
+2018-12-08 16:25:31.106982: Connection successful
+2018-12-08 16:25:41.612083: Sending response to server
+2018-12-08 16:25:41.619075: Response Sent
+2018-12-08 16:25:41.631070: response recieved
+2018-12-08 16:25:41.631070: response was 43 bytes
+2018-12-08 16:25:41.631070: response time was 0.011995315551757812
+2018-12-08 16:25:55.464151: Client requests to close connection
+2018-12-08 16:25:55.473126: Response Sent
+2018-12-08 16:25:55.479123: connection closed
+2018-12-08 16:28:58.683652: Connection successful
+2018-12-08 16:29:06.532150: Sending response to server
+2018-12-08 16:29:06.537144: Response Sent
+2018-12-08 16:29:06.548138: response recieved
+2018-12-08 16:29:06.548138: response was 43 bytes
+2018-12-08 16:29:06.548138: response time was 0.010993242263793945
+2018-12-08 16:29:13.382237: Sending response to server
+2018-12-08 16:29:13.387214: Response Sent
+2018-12-08 16:29:13.424192: response recieved
+2018-12-08 16:29:13.424192: response was 24 bytes
+2018-12-08 16:29:13.424192: response time was 0.03697800636291504
+2018-12-08 16:29:22.816804: Client requests to close connection
+2018-12-08 16:29:22.826798: Response Sent
+2018-12-08 16:29:22.831798: connection closed
+2018-12-08 16:29:30.440432: Connection successful
+2018-12-08 16:29:35.796361: Sending response to server
+2018-12-08 16:29:35.805355: Response Sent
+2018-12-08 16:29:35.824346: response recieved
+2018-12-08 16:29:35.824346: response was 31 bytes
+2018-12-08 16:29:35.824346: response time was 0.01899099349975586
+2018-12-08 16:29:45.516782: Sending response to server
+2018-12-08 16:29:45.530773: Response Sent
+2018-12-08 16:29:45.544765: response recieved
+2018-12-08 16:29:45.544765: response was 24 bytes
+2018-12-08 16:29:45.544765: response time was 0.0139923095703125
+2018-12-08 16:29:48.601020: Client requests to close connection
+2018-12-08 16:29:48.616003: Response Sent
+2018-12-08 16:29:48.623999: connection closed
+2018-12-08 16:32:09.407782: Connection successful
+2018-12-08 16:32:18.879350: Sending response to server
+2018-12-08 16:32:18.880350: Response Sent
+2018-12-08 16:32:18.880350: response recieved
+2018-12-08 16:32:18.880350: response was 43 bytes
+2018-12-08 16:32:18.880350: response time was 0.0
+2018-12-08 16:32:24.443160: Client requests to close connection
+2018-12-08 16:32:24.443160: Response Sent
+2018-12-08 16:32:24.443160: connection closed
+2018-12-08 16:47:40.564306: Connection successful
+2018-12-08 16:47:43.486700: Sending response to server
+2018-12-08 16:47:43.487608: Response Sent
+2018-12-08 16:47:43.487608: response recieved
+2018-12-08 16:47:43.487608: response was 24 bytes
+2018-12-08 16:47:43.487608: response time was 0.0
+2018-12-08 16:47:50.419632: Sending response to server
+2018-12-08 16:47:50.420633: Response Sent
+2018-12-08 16:47:50.420633: response recieved
+2018-12-08 16:47:50.420633: response was 24 bytes
+2018-12-08 16:47:50.420633: response time was 0.0
+2018-12-08 16:47:53.365026: Client requests to close connection
+2018-12-08 16:47:53.365940: Response Sent
+2018-12-08 16:47:53.365940: connection closed
+2018-12-08 16:48:09.900472: Failed to establish server connection
+2018-12-09 12:45:22.282372: Connection successful
+2018-12-09 12:45:30.428679: Sending response to server
+2018-12-09 12:45:30.428679: Response Sent
+2018-12-09 12:45:30.429678: response recieved
+2018-12-09 12:45:30.429678: response was 24 bytes
+2018-12-09 12:45:30.429678: response time was 0.00099945068359375
+2018-12-09 12:45:42.498752: Sending response to server
+2018-12-09 12:45:42.498752: Response Sent
+2018-12-09 12:45:42.498752: response recieved
+2018-12-09 12:45:42.498752: response was 43 bytes
+2018-12-09 12:45:42.499751: response time was 0.0
+2018-12-09 12:45:50.710045: Client requests to close connection
+2018-12-09 12:45:50.710045: Response Sent
+2018-12-09 12:45:50.710045: connection closed
+2018-12-09 12:47:50.816139: Connection successful
+2018-12-09 12:47:55.800368: Sending response to server
+2018-12-09 12:47:55.801277: Response Sent
+2018-12-09 12:47:55.801277: response recieved
+2018-12-09 12:47:55.801277: response was 24 bytes
+2018-12-09 12:47:55.801277: response time was 0.0
+2018-12-09 12:48:00.861378: Client requests to close connection
+2018-12-09 12:48:00.861378: Response Sent
+2018-12-09 12:48:00.861378: connection closed
+2018-12-09 13:54:58.789729: Connection successful
+2018-12-09 13:55:13.985011: Sending response to server
+2018-12-09 13:55:13.985011: Response Sent
+2018-12-09 13:55:13.986010: response recieved
+2018-12-09 13:55:13.986010: response was 24 bytes
+2018-12-09 13:55:13.986010: response time was 0.00099945068359375
+2018-12-09 13:55:37.869309: Sending response to server
+2018-12-09 13:55:37.870308: Response Sent
+2018-12-09 13:55:37.870308: response recieved
+2018-12-09 13:55:37.870308: response was 43 bytes
+2018-12-09 13:55:37.870308: response time was 0.0
+2018-12-09 13:55:54.703651: Client requests to close connection
+2018-12-09 13:55:54.703651: Response Sent
+2018-12-09 13:55:54.703651: connection closed
+2018-12-09 13:56:06.631839: Connection successful
+2018-12-09 13:56:11.169207: Client requests to close connection
+2018-12-09 13:56:11.169207: Response Sent
+2018-12-09 13:56:11.170208: connection closed
+2018-12-15 23:58:18.284776: Connection successful
+2018-12-15 23:58:31.429070: Sending response to server
+2018-12-15 23:58:31.429568: Response Sent
+2018-12-15 23:58:31.430083: response recieved
+2018-12-15 23:58:31.430083: response was 24 bytes
+2018-12-15 23:58:31.436384: response time was 0.0005152225494384766
+2018-12-15 23:58:50.298253: Sending response to server
+2018-12-15 23:58:50.298253: Response Sent
+2018-12-15 23:58:50.298752: response recieved
+2018-12-15 23:58:50.298752: response was 43 bytes
+2018-12-15 23:58:50.298752: response time was 0.0
+2018-12-15 23:59:02.399074: Client requests to close connection
+2018-12-15 23:59:02.399074: Response Sent
+2018-12-15 23:59:02.399574: connection closed
+2018-12-15 23:59:10.388939: Connection successful
+2018-12-15 23:59:15.190261: Client requests to close connection
+2018-12-15 23:59:15.190261: Response Sent
+2018-12-15 23:59:15.190761: connection closed
+2018-12-16 16:31:27.649303: Connection successful
+2018-12-16 16:31:41.997821: Sending response to server
+2018-12-16 16:31:41.998337: Response Sent
+2018-12-16 16:31:41.998820: response recieved
+2018-12-16 16:31:41.998820: response was 24 bytes
+2018-12-16 16:31:42.005313: response time was 0.0004832744598388672
+2018-12-16 16:31:48.045227: Client requests to close connection
+2018-12-16 16:31:48.045725: Response Sent
+2018-12-16 16:31:48.046224: connection closed
+2018-12-16 16:31:54.281654: Connection successful
+2018-12-16 16:31:56.098240: Client requests to close connection
+2018-12-16 16:31:56.098723: Response Sent
+2018-12-16 16:31:56.098723: connection closed
+2019-01-12 19:35:26.452094: Connection successful
+2019-01-12 19:35:44.720651: Sending response to server
+2019-01-12 19:35:44.721651: Response Sent
+2019-01-12 19:35:44.721651: response recieved
+2019-01-12 19:35:44.721651: response was 24 bytes
+2019-01-12 19:35:44.721651: response time was 0.0
+2019-01-12 19:36:14.772480: Sending response to server
+2019-01-12 19:36:14.772480: Response Sent
+2019-01-12 19:36:14.772480: response recieved
+2019-01-12 19:36:14.772480: response was 43 bytes
+2019-01-12 19:36:14.772480: response time was 0.0
+2019-01-12 19:36:51.896284: Client requests to close connection
+2019-01-12 19:36:51.896284: Response Sent
+2019-01-12 19:36:51.896284: connection closed
+2019-01-12 19:37:06.032192: Connection successful
+2019-01-12 19:37:10.857434: Client requests to close connection
+2019-01-12 19:37:10.858437: Response Sent
+2019-01-12 19:37:10.858437: connection closed
+2019-01-24 12:46:34.393998: Connection successful
+2019-01-24 12:46:39.739934: Sending response to server
+2019-01-24 12:46:39.739934: Response Sent
+2019-01-24 12:46:39.739934: response recieved
+2019-01-24 12:46:39.739934: response was 38 bytes
+2019-01-24 12:46:39.739934: response time was 0.0
+2019-01-24 12:47:00.257261: Client requests to close connection
+2019-01-24 12:47:00.258173: Response Sent
+2019-01-24 12:47:00.258173: connection closed
+2019-01-24 12:52:33.309665: Connection successful
+2019-01-24 12:52:38.869473: Sending response to server
+2019-01-24 12:52:38.869473: Response Sent
+2019-01-24 12:52:38.869473: response recieved
+2019-01-24 12:52:38.870474: response was 38 bytes
+2019-01-24 12:52:38.870474: response time was 0.0
+2019-01-24 12:52:51.387298: Sending response to server
+2019-01-24 12:52:51.387298: Response Sent
+2019-01-24 12:52:51.387298: response recieved
+2019-01-24 12:52:51.388299: response was 43 bytes
+2019-01-24 12:52:51.388299: response time was 0.0
+2019-01-24 12:52:56.780207: Client requests to close connection
+2019-01-24 12:52:56.781206: Response Sent
+2019-01-24 12:52:56.781206: connection closed
+2019-01-24 13:05:16.212165: Failed to establish server connection
